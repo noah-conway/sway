@@ -58,7 +58,7 @@
 
   "network": {
     "format-ethernet": " ",
-    "format-wifi": "     {essid} ",
+    "format-wifi": "  {essid} ",
     "format-disconnected": "",
     "tooltip-format": "{ipaddr}/{cidr}\n{gwaddr}\n{ifname}\n⇡{bandwidthUpBytes} ⇣{bandwidthDownBytes}"
   },
